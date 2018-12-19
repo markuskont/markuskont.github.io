@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EOF</title>
-    <link>/</link>
+    <link>https://markuskont.github.com/</link>
     <description>Recent content on EOF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Oct 2018 23:05:46 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markuskont.github.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>/about/</link>
+      <link>https://markuskont.github.com/about/</link>
       <pubDate>Thu, 18 Oct 2018 23:05:46 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://markuskont.github.com/about/</guid>
       <description>Tinkerer, geek, gamer, craft beer lover. I like to build things for fun and work. But I rarely write it down&amp;hellip;unless I have to. And then it&amp;rsquo;s often near deadline and, to make things even worse, academic. So time to hop on blogging bandwagon to actually document some of this stuff for future generations. Or at least to make myself better at writing these things down, and also to give myself an excuse to learn new skills.</description>
     </item>
     
     <item>
       <title>Helloworld</title>
-      <link>/posts/helloworld/</link>
+      <link>https://markuskont.github.com/posts/helloworld/</link>
       <pubDate>Thu, 18 Oct 2018 23:05:46 +0000</pubDate>
       
-      <guid>/posts/helloworld/</guid>
+      <guid>https://markuskont.github.com/posts/helloworld/</guid>
       <description></description>
     </item>
     
